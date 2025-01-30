@@ -1,1 +1,5 @@
 # Server_Multithread
+
+  Se va simula în Java un server multithread de conversații între mai multe persoane. Aceste conversații vor fi generate automat și aleatoriu, existând un admin al serverului care va putea vizualiza mesajele în timp real. Serverul va utiliza thread-uri pentru a gestiona fiecare conexiune de client, asigurând astfel o comunicare eficientă și rapidă.
+
+  Scopul principal al acestei aplicații este generarea conversațiilor, cât și măsurarea unor resurse utilizate de thread-urile ce se ocupă cu gestionarea acestora. Deoarece generarea unor conversații realiste presupune includerea unor timpi de așteptare / delay bazate pe lungimea mesajului, s-a constatat necesitatea unui mod separat, care nu ține cont de realismul conversației ci doar de îndeplinirea task-urilor de generare și măsurare a resurselor utilizate. Acest mod, denumit în aplicație Custom Mode, permite utilizatorului să genereze 100 de conversații (50 utilizând thread-uri tradiționale și 50 folosind thread-uri virtuale) identice din punctul de vedere al numărului mesajelor din cadrul unei conversații.  
