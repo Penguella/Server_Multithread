@@ -1,0 +1,63 @@
+Resource Monitoring Log 4.2.4 
+===== Note: For accurate results use custom mode ====
+========================
+Virtual Thread | ID: 5
+ 
+Total Time: 1864 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Virtual Thread | ID: 7
+ 
+Total Time: 1989 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Virtual Thread | ID: 1
+ 
+Total Time: 1989 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Virtual Thread | ID: 3
+ 
+Total Time: 2066 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Traditional Thread | ID: 4
+ 
+Total Time: 2189 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Traditional Thread | ID: 2
+ 
+Total Time: 2327 ms
+CPU Load: 0,13472%
+Used Memory: 2,000MB
+
+Traditional Thread | ID: 10
+ 
+Total Time: 2481 ms
+CPU Load: 0,04073%
+Used Memory: 0,000MB
+
+Traditional Thread | ID: 6
+ 
+Total Time: 2683 ms
+CPU Load: 0,04073%
+Used Memory: 2,000MB
+
+Traditional Thread | ID: 8
+ 
+Total Time: 3055 ms
+CPU Load: 0,52605%
+Used Memory: 2,000MB
+
+Virtual Thread | ID: 9
+ 
+Total Time: 3147 ms
+CPU Load: 0,52605%
+Used Memory: 2,000MB
+

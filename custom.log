@@ -1,0 +1,503 @@
+Custom Mode Resource Monitoring
+Messages per conversation: 30
+=============================
+Virtual Thread | ID: 51
+Total Time: 42 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 52
+Total Time: 48 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 1
+Total Time: 58 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 53
+Total Time: 70 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 2
+Total Time: 77 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 54
+Total Time: 91 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 3
+Total Time: 105 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 4
+Total Time: 112 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 55
+Total Time: 122 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 56
+Total Time: 140 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 5
+Total Time: 142 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 6
+Total Time: 160 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 57
+Total Time: 165 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 7
+Total Time: 172 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 8
+Total Time: 183 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 58
+Total Time: 193 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 59
+Total Time: 202 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 60
+Total Time: 219 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 9
+Total Time: 222 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 10
+Total Time: 234 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 61
+Total Time: 240 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 11
+Total Time: 253 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Virtual Thread | ID: 62
+Total Time: 262 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 12
+Total Time: 271 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 13
+Total Time: 281 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 14
+Total Time: 292 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 15
+Total Time: 305 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 16
+Total Time: 312 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 6,000MB
+ 
+Traditional Thread | ID: 17
+Total Time: 315 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 18
+Total Time: 328 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 19
+Total Time: 334 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 21
+Total Time: 344 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 20
+Total Time: 354 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 23
+Total Time: 358 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 22
+Total Time: 368 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 24
+Total Time: 377 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 25
+Total Time: 387 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 26
+Total Time: 393 ms 
+CPU Load Change: 9,58139% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 27
+Total Time: 404 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 28
+Total Time: 413 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 29
+Total Time: 416 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 30
+Total Time: 424 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 31
+Total Time: 433 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 32
+Total Time: 455 ms 
+CPU Load Change: 6,50575% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 33
+Total Time: 463 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 4,000MB
+ 
+Traditional Thread | ID: 34
+Total Time: 465 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 35
+Total Time: 471 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 36
+Total Time: 477 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 37
+Total Time: 489 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 38
+Total Time: 494 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 39
+Total Time: 504 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 40
+Total Time: 508 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 41
+Total Time: 517 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 42
+Total Time: 524 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 43
+Total Time: 532 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 44
+Total Time: 544 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 45
+Total Time: 552 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 46
+Total Time: 556 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 47
+Total Time: 566 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 48
+Total Time: 572 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 49
+Total Time: 579 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Traditional Thread | ID: 50
+Total Time: 594 ms 
+CPU Load Change: 15,74314% 
+Used Memory Change: 2,000MB
+ 
+Virtual Thread | ID: 63
+Total Time: 578 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 64
+Total Time: 580 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 65
+Total Time: 572 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 66
+Total Time: 564 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 67
+Total Time: 546 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 68
+Total Time: 551 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 69
+Total Time: 534 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 70
+Total Time: 510 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 71
+Total Time: 500 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 72
+Total Time: 495 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 73
+Total Time: 463 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 74
+Total Time: 449 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 75
+Total Time: 102 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 76
+Total Time: 108 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 77
+Total Time: 102 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 78
+Total Time: 100 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 79
+Total Time: 95 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 80
+Total Time: 94 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 81
+Total Time: 97 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 82
+Total Time: 90 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 83
+Total Time: 92 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 84
+Total Time: 91 ms 
+CPU Load Change: 0,59315% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 85
+Total Time: 108 ms 
+CPU Load Change: 7,09772% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 86
+Total Time: 107 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 87
+Total Time: 101 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 88
+Total Time: 96 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 90
+Total Time: 102 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 91
+Total Time: 95 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 92
+Total Time: 97 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 93
+Total Time: 101 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 94
+Total Time: 101 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 95
+Total Time: 102 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 96
+Total Time: 107 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 97
+Total Time: 102 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 98
+Total Time: 101 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 89
+Total Time: 195 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 99
+Total Time: 100 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
+Virtual Thread | ID: 100
+Total Time: 88 ms 
+CPU Load Change: 0,00000% 
+Used Memory Change: 0,000MB
+ 
